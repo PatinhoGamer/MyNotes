@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_save_save"
+        android:icon="@android:drawable/ic_menu_save"
+        android:showAsAction="always"
+        android:title="@string/save" />
+    <item
+        android:id="@+id/menu_save_share"
+        android:title="@string/share_with_user" />
+    <item
+    android:id="@+id/menu_save_delete"
+    android:title="@string/delete" />
+</menu>

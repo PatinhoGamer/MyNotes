@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_user_items_list_text_entry"
+        android:title="@string/new_text_entry" />
+    <item
+        android:id="@+id/menu_user_items_list_drawn_entry"
+        android:title="@string/new_drawn_entry" />
+    <item
+        android:id="@+id/menu_user_items_list_image_entry"
+        android:title="@string/new_image_entry" />
+    <item
+        android:id="@+id/menu_user_items_list_weather_text_entry"
+        android:title="@string/new_entry_with_weather_and_text" />
+    <item
+        android:id="@+id/menu_user_items_list_location_entry"
+        android:title="@string/new_entry_with_location_and_map" />
+    <item
+        android:id="@+id/menu_user_items_list_sort_time"
+        android:title="@string/sort_by_date_and_times" />
+    <item
+        android:id="@+id/menu_user_items_list_sort_type"
+        android:title="@string/sort_by_type" />
+</menu>
